@@ -3,7 +3,6 @@ mustache-builder
 
 mustache powered JavaScript building!
 
-stache --help
 ```
 mustache-builder v0.1
 ====================================
