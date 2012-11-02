@@ -3,6 +3,14 @@ mustache-builder
 
 mustache powered JavaScript building!
 
+Install
+----------------
+```bash
+npm install https://github.com/daxxog/mustache-builder/tarball/master
+```
+
+Help
+----------------
 ```
 mustache-builder v0.1
 ====================================
