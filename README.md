@@ -12,14 +12,17 @@ npm install https://github.com/daxxog/mustache-builder/tarball/master
 stache --help
 ----------------
 ```
-mustache-builder v0.1
+mustache-builder v0.1.2
 ====================================
 _
 Usage:
    stache {input-filename}
 _
-   stache {input-filename} -o {output-filename}
+   stache {input-filename} --output {output-filename}
    == Output to {output-filename} instead of STDOUT
+_
+   stache -o
+   == Same as stache --output
 _
    stache --test
    == Run the unit test
