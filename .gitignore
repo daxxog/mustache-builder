@@ -1,2 +1,4 @@
 .c9revisions/
 node_modules/
+.npmrc
+npm-debug.log
