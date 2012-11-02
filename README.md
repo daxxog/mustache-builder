@@ -9,7 +9,7 @@ Install
 npm install https://github.com/daxxog/mustache-builder/tarball/master
 ```
 
-Help
+stache --help
 ----------------
 ```
 mustache-builder v0.1
