@@ -3,7 +3,7 @@
     "description": "mustache powered JavaScript building!",
     "homepage": "https://github.com/daxxog/mustache-builder",
     "main": "lib/mustache-builder.js",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "engines": { "node" : ">=0.4.0" },
     "maintainers": [{
         "name": "David Volm",
@@ -16,7 +16,8 @@
     }],
     "dependencies": {
         "uglify-js2" : "*",
-        "mu2"   : "*"
+        "mu2"   : "*",
+        "temp": "*"
     },
     "bin": {
         "stache" : "bin/stache"
