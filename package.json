@@ -16,7 +16,7 @@
     }],
     "dependencies": {
         "uglify-js2" : "*",
-        "mu2"   : "*",
+        "mustache"   : "*",
         "temp": "*"
     },
     "bin": {
