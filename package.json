@@ -16,7 +16,7 @@
     }],
     "dependencies": {
         "uglify-js2" : "*",
-        "mustache"   : "*",
+        "mustache"   : "*"
     },
     "bin": {
         "stache" : "bin/stache"
