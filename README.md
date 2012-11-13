@@ -12,7 +12,7 @@ npm install https://github.com/daxxog/mustache-builder/tarball/master
 stache --help
 ----------------
 ```
-mustache-builder v0.1.2
+mustache-builder v0.1.6
 ====================================
 _
 Usage:
@@ -23,6 +23,12 @@ _
 _
    stache -o
    == Same as stache --output
+_
+   stache -o --auto
+   == Auto magic file name
+_
+   stache --tag
+   == Scan for the tag directory for imports
 _
    stache --test
    == Run the unit test
