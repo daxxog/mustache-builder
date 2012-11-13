@@ -39,3 +39,7 @@ _
    stache {input-filename} --nominify
    == Do not minify the output
 ```
+
+TODO 0.1.7
+----------
+Multiline sta.che files
