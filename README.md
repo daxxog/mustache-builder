@@ -12,7 +12,7 @@ npm install https://github.com/daxxog/mustache-builder/tarball/master
 stache --help
 ----------------
 ```
-mustache-builder v0.1.6
+mustache-builder v0.1.7
 ====================================
 _
 Usage:
@@ -40,12 +40,10 @@ _
    == Do not minify the output
 ```
 
-TODO 0.1.7
+TODO 0.1.8
 ----------
-Multiline sta.che files
-
 Injections
 
-Blank files
-
 (maybe) code generators
+
+Parallel compile
